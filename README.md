@@ -29,11 +29,9 @@ THE FEATURE ON IT :
   when the creator of the token create any method
   or make any transaction
 
-»»»»»» Do a multiple buy in 1 transaction
+»»»»»» Snipe When only tax is low
 
-»»»»»» This bot can snipe BNB , BUSD & USDT Pair token
-
-»»»»»» Autosell when reach the target profit 
+»»»»»» Snipe Hidden Deadblock Function
 
 »»»»»» Skip Block Function
 
